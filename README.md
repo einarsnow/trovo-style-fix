@@ -14,8 +14,11 @@ Tampermonkey скрипт, который добавляет кнопку быс
 2. turn on/off style - исправление стиля сообщений чтобы при наведении они не перекрывали друг друга (включен по-умолчанию)
 
 ![one-punch-ban-2](https://user-images.githubusercontent.com/18613872/185504184-c28ffb06-f48d-4dbd-9631-686bdf4d104c.png)
-
+____
 ### Поддержать
 https://donate.stream/einarsnow
 
 <img src="https://user-images.githubusercontent.com/18613872/185506244-e857f330-b615-4068-9be1-0e4f8a18feb3.png" width="234">
+
+### Другие скрипты
+[YouTube Dr.TAG](https://github.com/einarsnow/youtube-dr-tag)
