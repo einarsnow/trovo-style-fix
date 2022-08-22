@@ -13,7 +13,8 @@ Tampermonkey скрипт, который добавляет кнопку быс
 1. turn on/off autoban - при нажатии пользователь банится сразу или только прописывается команда (включен по-умолчанию)
 2. turn on/off style - исправление стиля сообщений чтобы при наведении они не перекрывали друг друга (включен по-умолчанию)
 
-![one-punch-ban-2](https://user-images.githubusercontent.com/18613872/185504184-c28ffb06-f48d-4dbd-9631-686bdf4d104c.png)
+![one-punch-ban-2 1](https://user-images.githubusercontent.com/18613872/185974064-785fdfd8-b5d5-494a-8cc2-2a61249829b4.png)
+
 ____
 ### Поддержать
 https://donate.stream/einarsnow
