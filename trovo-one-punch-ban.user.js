@@ -48,9 +48,14 @@ function renderStyle() {
     if (styleElement != null) styleElement.remove()
     if (!styleState) return
     styleElement = GM_addStyle(`
+        .message-user {
+            padding-bottom: 18px !important;
+        }
         .message-time {
+            display: block !important;
+            background: none !important;
             bottom: 0 !important;
-            z-index: -1 !important;
+            z-index: 2 !important;
         }
     `)
 }
