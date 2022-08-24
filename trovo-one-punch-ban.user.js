@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Trovo One Punch Ban
 // @namespace    einarsnow
-// @version      1.1
+// @version      1.2
 // @author       einarsnow
 // @description  Ban users in Trovo chat by click
 // @updateURL    https://github.com/einarsnow/trovo-one-punch-ban/raw/main/trovo-one-punch-ban.user.js
