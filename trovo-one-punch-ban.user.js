@@ -8,6 +8,7 @@
 // @downloadURL  https://github.com/einarsnow/trovo-one-punch-ban/raw/main/trovo-one-punch-ban.user.js
 // @supportURL   https://github.com/einarsnow/trovo-one-punch-ban
 // @match        https://trovo.live/s/*
+// @match        https://trovo.live/chat/*
 // @grant        GM_registerMenuCommand
 // @grant        GM_unregisterMenuCommand
 // @grant        GM_getValue
