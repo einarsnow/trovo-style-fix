@@ -4,7 +4,7 @@
 Tampermonkey скрипт, который добавляет кнопку быстрого бана в Trovo чате при наведении на пользователя.
 
 ### Установка
-1. Установите [расширение Tampermonkey](https://www.tampermonkey.net/)
+1. Установите [расширение Tampermonkey](https://www.tampermonkey.net/) или [Violentmonkey](https://violentmonkey.github.io/get-it/)
 2. Установите [скрипт Trovo One Punch Ban](https://github.com/einarsnow/trovo-one-punch-ban/raw/main/trovo-one-punch-ban.user.js)
 > Если иконка не появилась - обновите страницу
 
